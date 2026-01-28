@@ -1,7 +1,22 @@
 title: Dr. Amit Kumar Marwah
-description: Professor | Entrepreneur | Innovator | Researcher
+author: Dr. Amit Kumar Marwah
+email: amitmarwah1248@gmail.com
+description: >
+  Professor | Head – IQAC, Ranking & Accreditation |
+  Entrepreneur | Innovator | Researcher
+
 theme: minima
+
+header_pages:
+  - about.md
+  - experience.md
+  - projects.md
+  - publications.md
+  - education.md
+  - contact.md
+
+minima:
+  social_links:
+    linkedin: amit-kumar-marwah
+
 markdown: kramdown
-author:
-  name: Dr. Amit Kumar Marwah
-  email: amitmarwah1248@gmail.com
